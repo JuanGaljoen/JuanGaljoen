@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Svelt**
 
-- 👯 I’m looking to collaborate with **Highly skilled teams and individuals**
+- 👯 I’m looking to collaborate with **highly skilled teams and individuals**
 
 - 👨‍💻 All of my projects are available at [https://juanviljoen.com](https://juanviljoen.com)
 
