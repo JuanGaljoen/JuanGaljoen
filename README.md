@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">Passionate developer and lifelong learner dedicated to building impactful software. I love to explore new technologies and improve my skills.</h3>
 
-- 🔭 I’m currently working at [Culture Systems](https://culsys.co/)
+- 🔭 I’m currently working on [Crypto-App](https://github.com/JuanGaljoen/crypto-app)
 
 - 🌱 I’m currently learning **Rust, Svelt**
 
