@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Crypto-App](https://github.com/JuanGaljoen/crypto-app)
 
-- 🌱 I’m currently learning **Rust, Svelt**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate with **highly skilled teams and individuals**
 
