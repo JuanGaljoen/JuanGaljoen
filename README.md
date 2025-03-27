@@ -22,7 +22,7 @@
 
 <div align="center">
   <h2>🚀 Technologies I Code With</h2>
-  <img src="https://skillicons.dev/icons?i=rust,nodejs,express,dotnet,ts,js,react,flutter,tailwind,mongodb,redis,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,express,dotnet,ts,js,react,flutter,tailwind,html,css,git,mongodb,redis,aws" />
 </div>
 
 <div align="center">
